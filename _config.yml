@@ -1,0 +1,4 @@
+theme: jekyll-theme-midnight
+# Site Settings
+locale                   : "en_US"
+title                    : "Seminar on Molecular Dynamics (MD) Simulations"
