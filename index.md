@@ -1,4 +1,4 @@
-**International seminar for molecular dynamic simulations for organic and inorganic systems**
+**Seminar on Molecular Dynamics (MD) Simulations: International seminar for molecular dynamic simulations for organic and inorganic systems (ISMD2025)**
 
 **July 2 - 3, 2025, At Chiang Mai University, Chiang Mai, Thailand**
 
